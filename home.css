@@ -1,0 +1,27 @@
+body {
+    background: url('../assets/ai-background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #f5f5f5;
+}
+
+.hero {
+    padding: 60px 20px;
+    text-align: center;
+    color: #00d4ff;
+}
+
+.card.ai-card {
+    background: rgba(31, 31, 31, 0.9);
+    border-radius: 10px;
+    color: #f5f5f5;
+}
+
+.card.ai-card img {
+    max-height: 100px;
+    object-fit: contain;
+}
+
+footer {
+    background: #1f1f1f;
+    color: #f5f5f5;
+}
